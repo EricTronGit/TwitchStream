@@ -24,6 +24,10 @@ target/
 .mvn/
 HELP.md
 
+# CONTIENT LES SECRETS ID
+src/main/java/com/erictron/TWITCHOATH/TWITCHOATH.java
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
