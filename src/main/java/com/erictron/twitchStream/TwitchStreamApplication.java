@@ -40,7 +40,7 @@ public class TwitchStreamApplication {
 			HttpResponse<String> response2 = httpClient.send(request2,
 					HttpResponse.BodyHandlers.ofString());
 
-			System.out.println("prout " + response2.body());
+			System.out.println(response2.body());
 
 
 		} catch (Exception e) {
